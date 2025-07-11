@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-8q(ck5)51mb51is!img$9lgm6j9hy2)*u5!9)yxntofnyiz%7$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['quizcred.onrender.com','127.0.0.1']
+ALLOWED_HOSTS = ['quizcred.onrender.com','www.quizcred.onrender.com','127.0.0.1']
 
 
 # Application definition
